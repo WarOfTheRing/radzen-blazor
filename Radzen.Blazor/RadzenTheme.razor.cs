@@ -44,6 +44,7 @@ namespace Radzen.Blazor
             "material-dark" => true,
             "standard" => true,
             "standard-dark" => true,
+            "standard-dark-wotr" => true,
             "humanistic" => true,
             "humanistic-dark" => true,
             "software" => true,
